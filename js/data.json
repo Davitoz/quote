@@ -1,0 +1,178 @@
+directoryData = [
+	{
+		"ID": "1",
+		"quote": "No matter how hard you try, you will never be as big as your pump",
+		"author": "Broscience",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=PPVBYI4N3Js"
+	},
+	{
+		"ID": "2",
+		"quote": "friend request sent, Skype sex, guaranteed.",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=esxfpb8ZjMw"
+	},
+	{
+		"ID": "3",
+		"quote": "BroScience is lifting advice from an unqualified bro, who looks like he works out",
+		"author": "Bro Science",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=OXO2azb3_PE"
+	},
+	{
+		"ID": "4",
+		"quote": "Turns out it's really easy to pick up girls at the airport while they're waiting for cabs. I learned that from the movie taken.",
+		"author": "Bro Science",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "5",
+		"quote": "I don't need science. My eyes just proved it",
+		"author": "Bro Science",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "6",
+		"quote": "Bro Science. 50% magic. 50% fact. 100% results.",
+		"author": "Bro Science",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "7",
+		"quote": "Bro i heard if you spin the weights it gets you bigger faster because of gravity",
+		"author": "Bro Science",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=OXO2azb3_PE"
+	},
+	{
+		"ID": "8",
+		"quote": "The real place to get learned, right here in the gym, the dungeon!",
+		"author": "Bro Science",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=OXO2azb3_PE"
+	},
+	{
+		"ID": "9",
+		"quote": "I believe Bro Science works because that guy over there just told me and he's fucking huge",
+		"author": "Bro Science",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=OXO2azb3_PE"
+	},
+	{
+		"ID": "10",
+		"quote": "I started lifting in college because everybody ignored me in high school",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=F8nSHzAE5CQ"
+	},
+	{
+		"ID": "11",
+		"quote": "The key to a good mirror shot? Never smile.  Always look confused",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=F8nSHzAE5CQ"
+	},
+	{
+		"ID": "12",
+		"quote": "Before I started lifting weights I was like a 120 lb virgin as soon as I touched my first weight it was like BOOM.....still a virgin",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=F8nSHzAE5CQ"
+	},
+	{
+		"ID": "13",
+		"quote": "I don't need sex. I make love to myself everyday at the gym.",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=F8nSHzAE5CQ"
+	},
+	{
+		"ID": "14",
+		"quote": "I only fuck dimes bro. and I don't mean like coins, I mean people.",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=pI4K9ormy_M"
+	},
+	{
+		"ID": "15",
+		"quote": "picking up community college chicks is like grabbing a dog from the pound",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=pI4K9ormy_M"
+	},
+	{
+		"ID": "16",
+		"quote": "you know the doctors suggested to my mom as well that she should abort me... last week",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=pI4K9ormy_M"
+	},
+	{
+		"ID": "17",
+		"quote": "it's not everyday you lose your virginity but for me it's every weekend",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": "https://www.youtube.com/watch?v=pI4K9ormy_M"
+	},/*
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	},
+	{
+		"ID": "",
+		"quote": "",
+		"author": "Dom Mazzetti",
+		"category": "video",
+		"source": ""
+	}*/
+
+]
