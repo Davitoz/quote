@@ -23,23 +23,23 @@ directoryData = [
 	{
 		"ID": "4",
 		"quote": "Turns out it's really easy to pick up girls at the airport while they're waiting for cabs. I learned that from the movie taken.",
-		"author": "Bro Science",
+		"author": "Dom Mazzetti",
 		"category": "video",
-		"source": ""
+		"source": "https://www.youtube.com/watch?v=kPx0PZok5BQ"
 	},
 	{
 		"ID": "5",
 		"quote": "I don't need science. My eyes just proved it",
 		"author": "Bro Science",
 		"category": "video",
-		"source": ""
+		"source": "https://www.youtube.com/watch?v=OXO2azb3_PE"
 	},
 	{
 		"ID": "6",
 		"quote": "Bro Science. 50% magic. 50% fact. 100% results.",
 		"author": "Bro Science",
 		"category": "video",
-		"source": ""
+		"source": "https://www.youtube.com/watch?v=OXO2azb3_PE"
 	},
 	{
 		"ID": "7",
@@ -117,62 +117,13 @@ directoryData = [
 		"author": "Dom Mazzetti",
 		"category": "video",
 		"source": "https://www.youtube.com/watch?v=pI4K9ormy_M"
-	},/*
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
 	},
 	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
+		"ID": "18",
+		"quote": "Somebody call the Olympics and tell them it's cancelled, I already won",
+		"author": "Bro Science",
 		"category": "video",
-		"source": ""
-	},
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
-	},
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
-	},
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
-	},
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
-	},
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
-	},
-	{
-		"ID": "",
-		"quote": "",
-		"author": "Dom Mazzetti",
-		"category": "video",
-		"source": ""
-	}*/
+		"source": "https://www.youtube.com/watch?v=SMCUc2qr3Ms&noredirect=1"
+	}
 
 ]
