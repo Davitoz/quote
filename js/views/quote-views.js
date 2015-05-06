@@ -3,12 +3,6 @@ app = app || {};
 app.views.Quote = Backbone.View.extend({ // gildi á hverju quote-i
 	tagName: 'li', //hvert quote á að koma sem list item
 	
-	attributes: function() {
-		return {
-			class: 'quote ' + this.model.get('type')
-		};
-	},
-	
 	events: {
 		'click .list-header': 'showDetails' //þegar ýtt er á quote (list-header) fer þetta í showDetails function-ið
 	},
@@ -31,7 +25,7 @@ app.views.Quotes = Backbone.View.extend({
 
 	el: '#wrapper', // notar allan kóðann inní wrapper
 	
-	initialize: function(data) { //notum þessi gildi í byrjun (tekur við gögnum úr router.js)
+	initialize: function(data) { //notum þessi gildi í byrjun (tekur við gögnum úr controller.js)
 		this.collection = new app.collections.Quotes(data); //búum til nýtt collection með þessum gögnum
 		this.render(); //fer í render function
 
@@ -59,9 +53,6 @@ app.views.Quotes = Backbone.View.extend({
 		$('#listing').append(newquote.render().el); //bætum við nýju quote-i í listann
 	},
 	
-	getTypes: function() {
-		return _.uniq(this.collection.pluck('type'));
-	},
 	
 	
 	searchFilter: function(e) {
